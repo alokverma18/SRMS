@@ -22,7 +22,7 @@ It is a web-based application that allows a school or a university to manage, tr
 
 ## Screenshots
 
-![App Screenshot](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/7f/cb/fb/7fcbfb3f-5eca-d3e8-6d1b-d7e3f031ef46/AppIcon-1x_U007emarketing-0-4-0-0-85-220.png/1200x600wa.png)
+![App Screenshot](https://t3.ftcdn.net/jpg/03/45/93/26/360_F_345932630_Lyr86mj7tnO6DQS1f0BAPJGIaNAdP8ob.jpg)
 
 
 ## Roadmap
@@ -51,8 +51,6 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@Alok Verma](https://www.github.com/alokverma18)
-- [@Rochit Mehrotra](https://www.github.com/mehrotrarochit)
-
 
 
 ## 🔗 Links
